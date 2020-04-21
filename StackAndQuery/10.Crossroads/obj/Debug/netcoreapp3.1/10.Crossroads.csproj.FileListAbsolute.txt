@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.pdb

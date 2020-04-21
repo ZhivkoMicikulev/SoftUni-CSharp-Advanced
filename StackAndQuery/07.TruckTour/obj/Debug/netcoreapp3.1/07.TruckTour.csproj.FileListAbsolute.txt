@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.pdb

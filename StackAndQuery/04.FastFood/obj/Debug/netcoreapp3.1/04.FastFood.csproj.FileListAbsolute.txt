@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\StackAndQuery\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.pdb
