@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\08.Bombs\bin\Debug\netcoreapp3.1\08.Bombs.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\08.Bombs\bin\Debug\netcoreapp3.1\08.Bombs.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\08.Bombs\bin\Debug\netcoreapp3.1\08.Bombs.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\08.Bombs\bin\Debug\netcoreapp3.1\08.Bombs.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\08.Bombs\bin\Debug\netcoreapp3.1\08.Bombs.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\08.Bombs\bin\Debug\netcoreapp3.1\08.Bombs.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\08.Bombs\obj\Debug\netcoreapp3.1\08.Bombs.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\08.Bombs\obj\Debug\netcoreapp3.1\08.Bombs.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\08.Bombs\obj\Debug\netcoreapp3.1\08.Bombs.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\08.Bombs\obj\Debug\netcoreapp3.1\08.Bombs.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\08.Bombs\obj\Debug\netcoreapp3.1\08.Bombs.pdb

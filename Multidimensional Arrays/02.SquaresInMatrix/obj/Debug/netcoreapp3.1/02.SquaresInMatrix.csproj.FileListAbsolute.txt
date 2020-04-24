@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\02.SquaresInMatrix\bin\Debug\netcoreapp3.1\02.SquaresInMatrix.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\02.SquaresInMatrix\bin\Debug\netcoreapp3.1\02.SquaresInMatrix.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\02.SquaresInMatrix\bin\Debug\netcoreapp3.1\02.SquaresInMatrix.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\02.SquaresInMatrix\bin\Debug\netcoreapp3.1\02.SquaresInMatrix.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\02.SquaresInMatrix\bin\Debug\netcoreapp3.1\02.SquaresInMatrix.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\02.SquaresInMatrix\bin\Debug\netcoreapp3.1\02.SquaresInMatrix.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.pdb

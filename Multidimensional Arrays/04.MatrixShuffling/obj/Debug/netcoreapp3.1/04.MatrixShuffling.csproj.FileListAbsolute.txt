@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\04.MatrixShuffling\bin\Debug\netcoreapp3.1\04.MatrixShuffling.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\04.MatrixShuffling\bin\Debug\netcoreapp3.1\04.MatrixShuffling.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\04.MatrixShuffling\bin\Debug\netcoreapp3.1\04.MatrixShuffling.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\04.MatrixShuffling\bin\Debug\netcoreapp3.1\04.MatrixShuffling.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\04.MatrixShuffling\bin\Debug\netcoreapp3.1\04.MatrixShuffling.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\04.MatrixShuffling\bin\Debug\netcoreapp3.1\04.MatrixShuffling.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\netcoreapp3.1\04.MatrixShuffling.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\netcoreapp3.1\04.MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\netcoreapp3.1\04.MatrixShuffling.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\netcoreapp3.1\04.MatrixShuffling.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\netcoreapp3.1\04.MatrixShuffling.pdb

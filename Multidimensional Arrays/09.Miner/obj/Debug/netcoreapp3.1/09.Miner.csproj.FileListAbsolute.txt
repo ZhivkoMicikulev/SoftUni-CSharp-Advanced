@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\09.Miner\bin\Debug\netcoreapp3.1\09.Miner.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\09.Miner\bin\Debug\netcoreapp3.1\09.Miner.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\09.Miner\bin\Debug\netcoreapp3.1\09.Miner.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\09.Miner\bin\Debug\netcoreapp3.1\09.Miner.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\09.Miner\bin\Debug\netcoreapp3.1\09.Miner.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\09.Miner\bin\Debug\netcoreapp3.1\09.Miner.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\09.Miner\obj\Debug\netcoreapp3.1\09.Miner.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\09.Miner\obj\Debug\netcoreapp3.1\09.Miner.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\09.Miner\obj\Debug\netcoreapp3.1\09.Miner.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\09.Miner\obj\Debug\netcoreapp3.1\09.Miner.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Multidimensional Arrays\09.Miner\obj\Debug\netcoreapp3.1\09.Miner.pdb
