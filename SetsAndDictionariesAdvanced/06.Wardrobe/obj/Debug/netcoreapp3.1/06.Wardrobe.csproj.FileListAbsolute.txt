@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.csprojAssemblyReference.cache
