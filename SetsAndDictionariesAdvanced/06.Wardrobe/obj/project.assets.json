@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\06.Wardrobe\\06.Wardrobe.csproj",
+      "projectUniqueName": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\06.Wardrobe\\06.Wardrobe.csproj",
       "projectName": "06.Wardrobe",
-      "projectPath": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\06.Wardrobe\\06.Wardrobe.csproj",
+      "projectPath": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\06.Wardrobe\\06.Wardrobe.csproj",
       "packagesPath": "C:\\Users\\Живко\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\06.Wardrobe\\obj\\",
+      "outputPath": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\06.Wardrobe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Живко\\AppData\\Roaming\\NuGet\\NuGet.Config",

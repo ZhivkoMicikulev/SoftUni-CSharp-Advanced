@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\02.Sets of Elements\\02.Sets of Elements.csproj": {}
+    "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\02.Sets of Elements\\02.Sets of Elements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\02.Sets of Elements\\02.Sets of Elements.csproj": {
+    "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\02.Sets of Elements\\02.Sets of Elements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\02.Sets of Elements\\02.Sets of Elements.csproj",
+        "projectUniqueName": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\02.Sets of Elements\\02.Sets of Elements.csproj",
         "projectName": "02.Sets of Elements",
-        "projectPath": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\02.Sets of Elements\\02.Sets of Elements.csproj",
+        "projectPath": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\02.Sets of Elements\\02.Sets of Elements.csproj",
         "packagesPath": "C:\\Users\\Живко\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\02.Sets of Elements\\obj\\",
+        "outputPath": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\02.Sets of Elements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Живко\\AppData\\Roaming\\NuGet\\NuGet.Config",

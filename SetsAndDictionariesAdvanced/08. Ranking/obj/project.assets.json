@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\08. Ranking\\08. Ranking.csproj",
+      "projectUniqueName": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\08. Ranking\\08. Ranking.csproj",
       "projectName": "08. Ranking",
-      "projectPath": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\08. Ranking\\08. Ranking.csproj",
+      "projectPath": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\08. Ranking\\08. Ranking.csproj",
       "packagesPath": "C:\\Users\\Живко\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\08. Ranking\\obj\\",
+      "outputPath": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\08. Ranking\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Живко\\AppData\\Roaming\\NuGet\\NuGet.Config",

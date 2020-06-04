@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\04.Even Times\\04.Even Times.csproj",
+      "projectUniqueName": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\04.Even Times\\04.Even Times.csproj",
       "projectName": "04.Even Times",
-      "projectPath": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\04.Even Times\\04.Even Times.csproj",
+      "projectPath": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\04.Even Times\\04.Even Times.csproj",
       "packagesPath": "C:\\Users\\Живко\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\04.Even Times\\obj\\",
+      "outputPath": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\04.Even Times\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Живко\\AppData\\Roaming\\NuGet\\NuGet.Config",

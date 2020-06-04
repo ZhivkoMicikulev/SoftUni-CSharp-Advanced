@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\ConsoleApp1\\05.Count Symbols.csproj",
+      "projectUniqueName": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\ConsoleApp1\\05.Count Symbols.csproj",
       "projectName": "05.Count Symbols",
-      "projectPath": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\ConsoleApp1\\05.Count Symbols.csproj",
+      "projectPath": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\ConsoleApp1\\05.Count Symbols.csproj",
       "packagesPath": "C:\\Users\\Живко\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Живко\\AppData\\Roaming\\NuGet\\NuGet.Config",

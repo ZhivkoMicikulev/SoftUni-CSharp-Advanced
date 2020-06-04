@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Functional Programing\01.Action Point\bin\Debug\netcoreapp3.1\01.Action Point.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Functional Programing\01.Action Point\bin\Debug\netcoreapp3.1\01.Action Point.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Functional Programing\01.Action Point\bin\Debug\netcoreapp3.1\01.Action Point.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Functional Programing\01.Action Point\bin\Debug\netcoreapp3.1\01.Action Point.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Functional Programing\01.Action Point\bin\Debug\netcoreapp3.1\01.Action Point.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Functional Programing\01.Action Point\bin\Debug\netcoreapp3.1\01.Action Point.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Functional Programing\01.Action Point\obj\Debug\netcoreapp3.1\01.Action Point.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Functional Programing\01.Action Point\obj\Debug\netcoreapp3.1\01.Action Point.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Functional Programing\01.Action Point\obj\Debug\netcoreapp3.1\01.Action Point.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Functional Programing\01.Action Point\obj\Debug\netcoreapp3.1\01.Action Point.pdb

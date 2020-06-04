@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\01.Unique Usernames\\01.Unique Usernames.csproj",
+      "projectUniqueName": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\01.Unique Usernames\\01.Unique Usernames.csproj",
       "projectName": "01.Unique Usernames",
-      "projectPath": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\01.Unique Usernames\\01.Unique Usernames.csproj",
+      "projectPath": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\01.Unique Usernames\\01.Unique Usernames.csproj",
       "packagesPath": "C:\\Users\\Живко\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Живко\\Desktop\\СофтУни\\C#\\C# Advanced\\SetsAndDictionariesAdvanced\\01.Unique Usernames\\obj\\",
+      "outputPath": "D:\\ProgramingDocs\\SoftUni-CSharp-Advanced\\SoftUni-CSharp-Advanced\\SetsAndDictionariesAdvanced\\01.Unique Usernames\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Живко\\AppData\\Roaming\\NuGet\\NuGet.Config",
