@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Defining Classes\P08.CarSalesman\bin\Debug\netcoreapp3.1\P08.CarSalesman.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Defining Classes\P08.CarSalesman\bin\Debug\netcoreapp3.1\P08.CarSalesman.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Defining Classes\P08.CarSalesman\bin\Debug\netcoreapp3.1\P08.CarSalesman.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Defining Classes\P08.CarSalesman\bin\Debug\netcoreapp3.1\P08.CarSalesman.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Defining Classes\P08.CarSalesman\bin\Debug\netcoreapp3.1\P08.CarSalesman.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Defining Classes\P08.CarSalesman\bin\Debug\netcoreapp3.1\P08.CarSalesman.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Defining Classes\P08.CarSalesman\obj\Debug\netcoreapp3.1\P08.CarSalesman.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Defining Classes\P08.CarSalesman\obj\Debug\netcoreapp3.1\P08.CarSalesman.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Defining Classes\P08.CarSalesman\obj\Debug\netcoreapp3.1\P08.CarSalesman.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Defining Classes\P08.CarSalesman\obj\Debug\netcoreapp3.1\P08.CarSalesman.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Advanced\Defining Classes\P08.CarSalesman\obj\Debug\netcoreapp3.1\P08.CarSalesman.pdb
